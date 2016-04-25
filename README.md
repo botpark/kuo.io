@@ -1,4 +1,4 @@
-# Myth
+# Kuo.io
 Instalador del dispositivo biometrico ZK-F19 ID.
 
 ## Install 32 bits
